@@ -12,7 +12,9 @@ public class Main {
 
             if (numeroInicio % 2 == 1 && !pares) {
                 System.out.println(numeroInicio);
-                System.out.println("holaa")
+                System.out.println("holaa");
+                System.out.println("Chau");
+
             }
 
 
